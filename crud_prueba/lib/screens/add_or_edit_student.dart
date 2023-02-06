@@ -102,7 +102,7 @@ class _Add_Edit_StudentState extends State<Add_Edit_Student> {
           SizedBox(height: 10.0,),
          MyTextFields(hintedtext: "Example@gmail.com", labeltext: "Email", Inputcontroller: Email),
           SizedBox(height: 10.0,),
-         MyTextFields(hintedtext: "Sonsonate, Sonzacate, El sauce", labeltext: "Address", Inputcontroller: Address),
+         MyTextFields(hintedtext: "Col. example, casa #...", labeltext: "Address", Inputcontroller: Address),
           SizedBox(height: 10.0,),
          ],
           )),
